@@ -23,4 +23,14 @@ This repository provides materials for reproducing our work:
  
 ## LatticeMenu-Evaluation (Unity Scene)
 
+<p align="center">
+    <img src="img/LatticeMenu_EvaluationScene.gif", width="480">
+    <br>
+    <sup> Evaluation Scene - LatticeMenu Unity </sup>
+    <br>
+    <img src="img/LatticeMenu_EvaluationResult.PNG", width="300">
+    <br>
+    <sup> Test Result </sup>
+</p>
+
 You can test your performance in the Scene "LatticeMenu-Evaluation".
