@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/*
+ * Writer: Taejun Kim, HCI Lab KAIST - https://taejun13.github.io/
+ * Last Update: 2022. 1. 7
+ * Lattice Menu: A Low-Error Gaze-Based Marking Menu Utilizing Target-Assisted Gaze Gestures on a Lattice of Visual Anchors (ACM CHI 2022)
+ * ACM CHI 22': Conference on Human Factors in Computing Systems.
+ * DOI: (TBU)
+ */
+
+using UnityEngine;
 using System;
 
 public static class Eval_HelperMethods
