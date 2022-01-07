@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 416386656469751746, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
       propertyPath: m_Name
-      value: Door2
+      value: Door
       objectReference: {fileID: 0}
     - target: {fileID: 416386656469751746, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
       propertyPath: m_Layer
@@ -2543,12 +2543,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2222362cf2f3be744a21eefc7809d7f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  captureWidth: 2560
-  captureHeight: 1440
-  hideGameObject: {fileID: 0}
-  optimizeForManyScreenshots: 1
-  format: 2
-  folder: 
 --- !u!4 &1579202097 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4733772755456769034, guid: 3ad7a1cffb2556547a8b7e60fd320431, type: 3}
