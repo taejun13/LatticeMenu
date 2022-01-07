@@ -13,3 +13,14 @@ More information about this work can be found in: Paper (TBU) | DOI (TBU) | Vide
     <br>
     <sup> Sample demo app - Lattice Menu</sup>
 </p>
+
+## What does this repository contain?
+
+This repository provides materials for reproducing our work:
+* LatticeMenu Unity
+  * Unity Version: 2020.1.8f1
+  * Required eye-tracking VR headset: [FOVE0](https://fove-inc.com/product/fove0/)
+ 
+## LatticeMenu-Evaluation (Unity Scene)
+
+You can test your performance in LatticeMenu-Evaluation Scene.
