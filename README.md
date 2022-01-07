@@ -23,4 +23,4 @@ This repository provides materials for reproducing our work:
  
 ## LatticeMenu-Evaluation (Unity Scene)
 
-You can test your performance in LatticeMenu-Evaluation Scene.
+You can test your performance in the Scene "LatticeMenu-Evaluation".
