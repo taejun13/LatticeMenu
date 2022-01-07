@@ -1,6 +1,6 @@
 ## Lattice Menu: A Low-Error Gaze-Based Marking Menu Utilizing Target-Assisted Gaze Gestures on a Lattice of Visual Anchors
 <p align="center">
-    <img src="img/LatticeMenu_Overview.png", width="700">
+    <img src="img/LatticeMenu_Overview.PNG", width="700">
 </p>
 
 -----------------
